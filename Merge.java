@@ -6,9 +6,9 @@ public class Merge {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		
-		System.out.println("Enter the size of A array ");
+		System.out.println("Enter the size of array A ");
 		int n=sc.nextInt();
-		System.out.println("Enter the size of B array");
+		System.out.println("Enter the ize of array B");
 		int m=sc.nextInt();
 		
 		int a[]=new int[n];
